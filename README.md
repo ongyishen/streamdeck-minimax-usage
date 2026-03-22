@@ -3,7 +3,7 @@
 > Monitor your MiniMax Coding Plan API quota directly from your Stream Deck
 
 ## Overview
-
+![App](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/AppScreenShot.png)
 This plugin enables Stream Deck users to monitor their MiniMax AI Coding Plan API usage in real-time. It displays usage statistics, remaining quota, and time limits directly on Stream Deck buttons with color-coded indicators.
 
 ## Features
@@ -27,7 +27,6 @@ This plugin enables Stream Deck users to monitor their MiniMax AI Coding Plan AP
 Real-time usage display on Stream Deck button with color-coded indicator and model information.
 
 ### Property Inspector Settings
-![Property Inspector](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/AppScreenShot.png)
 
 Configuration panel for API key, model name, and refresh interval settings.
 
