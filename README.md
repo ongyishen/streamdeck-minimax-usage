@@ -19,6 +19,18 @@ This plugin enables Stream Deck users to monitor their MiniMax AI Coding Plan AP
 - **Manual Refresh**: Press button to instantly update usage data
 - **Time Display**: Shows remaining time in hours and minutes
 
+## Screenshots
+
+### Stream Deck Display
+![Stream Deck Button Display](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/293.png)
+
+Real-time usage display on Stream Deck button with color-coded indicator and model information.
+
+### Property Inspector Settings
+![Property Inspector](https://github.com/ongyishen/streamdeck-minimax-usage/blob/5287ed8ef9967da97df79564c761a72265dc19be/AppScreenShot.png)
+
+Configuration panel for API key, model name, and refresh interval settings.
+
 ## Installation
 
 ### Prerequisites
